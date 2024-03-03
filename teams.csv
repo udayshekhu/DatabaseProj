@@ -1,0 +1,31 @@
+﻿Teamname,Wins,Losses,Win_pct,Abrv,Conference,Division,Hcid,Hcfname,Hclname,Hcage,Sid,Stadium,Capacity,State,City,Cid,Cfname,Clname,networth,League Name,Commissioner firstname,Commissioner lastname
+Atlanta Hawks,41,31,0.569444444,ATL,Eastern,Southeast,1,Nate,McMillan,58,1,State Farm Arena,18118,Georgia,Atlanta,1,Tony,Ressler,6.2,NBA,Adam,Silver
+Boston Celtics,36,36,0.5,BOS,Eastern,Atlantic,2,Ime,Udoka,34,2,TD Garden,18624,Massachusetts,Boston,2,Wyc,Grousbeck,0.4,NBA,Adam,Silver
+Brooklyn Nets,48,24,0.666666667,BKN,Eastern,Atlantic,3,Steve,Nash,47,3,Barclays Center,17732,New York,Brooklyn,3,Joseph,Tsai,7.7,NBA,Adam,Silver
+Charlotte Hornets,33,39,0.458333333,CHA,Eastern,Southeast,4,Billy,Donovan,61,4,Spectrum Center,19077,North Carolina,Charlotte,4,Michael,Jordan,1.7,NBA,Adam,Silver
+Chicago Bulls,31,41,0.430555556,CHI,Eastern,Central,5,James,Borrego,57,5,United Center,20917,Illinois,Chicago,5,Jerry,Reinsdorf,1.8,NBA,Adam,Silver
+Cleveland Cavaliers,22,50,0.305555556,CLE,Eastern,Central,6,J.B.,Bickerstaff,43,6,Rocket Mortgage FieldHouse,20562,Ohio,Cleveland,6,Dan,Gilbert,15.7,NBA,Adam,Silver
+Dallas Mavericks,42,30,0.583333333,DAL,Western,Southwest,7,Jason,Kidd,49,7,American Airlines Center,19200,Texas,Dallas,7,Mark,Cuban,4.6,NBA,Adam,Silver
+Denver Nuggets,47,25,0.652777778,DEN,Western,Northwest,8,Michael,Malone,51,8,Ball Arena,19155,Colorado,Denver,8,Ann,Kroenke,8.7,NBA,Adam,Silver
+Detroit Pistons,20,52,0.277777778,DET,Eastern,Central,9,Dwane,Casey,65,9,Little Caesars Arena,20491,Michigan,Detroit,9,Tom,Gores,6.2,NBA,Adam,Silver
+Golden State Warriors,39,33,0.541666667,GSW,Western,Pacific,10,Steve,Kerr,57,10,Chase Center,19596,California,San Francisco,10,Joe,Lacob,1.8,NBA,Adam,Silver
+Houston Rockets,17,55,0.236111111,HOU,Western,Southwest,11,Stephen,Silas,49,11,Toyota Center,18055,Texas,Houston,11,Tilman,Fertitta,7.9,NBA,Adam,Silver
+Indiana Pacers,34,38,0.472222222,IND,Eastern,Central,12,Rick,Carlisle,63,12,Bankers Life Fieldhouse,17923,Indiana,Indianapolis,12,Herbert,Simon,3.3,NBA,Adam,Silver
+Los Angeles Clippers,47,25,0.652777778,LAC,Western,Pacific,13,Tyronn,Lue,45,13,Crypto.com Arena,19060,California,Los Angeleles,13,Steve,Ballmer,74.6,NBA,Adam,Silver
+Los Angeles Lakers,42,30,0.583333333,LAL,Western,Pacific,14,Frank,Vogel,49,14,Crypto.com Arena,19060,California,Los Angeleles,14,Jeanie,Buss,0.5,NBA,Adam,Silver
+Memphis Grizzlies,38,34,0.527777778,MEM,Western,Southwest,15,Taylor,Jenkins,38,15,FedExForum,18119,Tennessee,Memphis,15,Robert,Pera,16.1,NBA,Adam,Silver
+Miami Heat,40,32,0.555555556,MIA,Eastern,Southeast,16,Erik,Spoelstra,52,16,FTX Arena,19600,Florida,Miami,16,Micky,Arison,5.5,NBA,Adam,Silver
+Milwaukee Bucks,46,26,0.638888889,MIL,Eastern,Central,17,Mike,Budenholzer,53,17,Fiserv Forum,17500,Wisconsin,Milwaukee,17,Marc,Lasry,1.8,NBA,Adam,Silver
+Minnesota Timberwolves,23,49,0.319444444,MIN,Western,Northwest,18,Chris,Finch,53,18,Target Center,19356,Minnesota,Minneapolis,18,Glen,Taylor,2.2,NBA,Adam,Silver
+New Orleans Pelicans,31,41,0.430555556,NOP,Western,Southwest,19,Willie,Green,41,19,Smoothie King Center,16867,Louisiana,New Orleans,19,Gayle,Benson,4.7,NBA,Adam,Silver
+New York Knicks,41,31,0.569444444,NYK,Eastern,Atlantic,20,Tom,Thibodeau,64,20,Madison Square Garden,19812,New York,New York City,20,James,Dolan,2,NBA,Adam,Silver
+Oklahoma City Thunder,22,50,0.305555556,OKC,Western,Northwest,21,Mark,Daigneault,37,21,Paycom Center,18203,Oklahoma,Oklahoma City,21,Clay,Bennett,0.4,NBA,Adam,Silver
+Orlando Magic,21,51,0.291666667,ORL,Eastern,Southeast,22,Jamahl,Mosley,44,22,Amway Center,18846,Florida,Orlando,22,Dan,DeVos,5.4,NBA,Adam,Silver
+Philadelphia 76ers,49,23,0.680555556,PHI,Eastern,Atlantic,23,Doc,Rivers,61,23,Wells Fargo Center,20328,Pennsylvania,Philadelphia,23,Joshua,Harris,5.9,NBA,Adam,Silver
+Phoenix Suns,51,21,0.708333333,PHO,Western,Pacific,24,Monty,Williams,51,24,Footprint Center,18422,Arizona,Phoenix,24,Robert,Sarver,0.8,NBA,Adam,Silver
+Portland Trail Blazers,42,30,0.583333333,POR,Western,Northwest,25,Chauncey,Billups,46,25,Moda Center,19980,Oregon,Portland,25,Jody,Allen,20.3,NBA,Adam,Silver
+Sacramento Kings,31,41,0.430555556,SAC,Western,Pacific,26,Alvin,Gentry,52,26,Golden 1 Center,17608,California,Sacramento,26,Vivek,Ranadivé,0.7,NBA,Adam,Silver
+San Antonio Spurs,33,39,0.458333333,SAS,Western,Southwest,27,Gregg,Popovich,73,27,AT&T Center,18418,Texas,San Antonio,27,Peter,Holt,0.2,NBA,Adam,Silver
+Toronto Raptors,27,45,0.375,TOR,Eastern,Atlantic,28,Nick,Nurse,55,28,Scotiabank Arena,19800,Ontario,Toronto,28,Larry,Tanenbaum,1.5,NBA,Adam,Silver
+Utah Jazz,52,20,0.722222222,UTA,Western,Northwest,29,Quin,Snyder,34,29,Vivint Arena,18303,Utah,Salt Lake City,29,Ryan,Smith,1.6,NBA,Adam,Silver
+Washington Wizards,34,38,0.472222222,WAS,Eastern,Southeast,30,Wes,Unseld,47,30,Capital One Arena,20356,D.C,Washington,30,Ted,Leonsis,2.1,NBA,Adam,Silver
